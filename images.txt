@@ -1,2 +1,3 @@
 neo4j
 zookeeper
+postgres:12.20-bullseye
