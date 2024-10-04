@@ -3,3 +3,4 @@ zookeeper
 postgres:12.20-bullseye
 jiangjuhong/dujiaoka
 mysql
+nginx
