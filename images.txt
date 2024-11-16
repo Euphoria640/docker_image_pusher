@@ -1,6 +1,1 @@
-neo4j
-zookeeper
-postgres:12.20-bullseye
-jiangjuhong/dujiaoka
-mysql
-nginx
+redis:alpine3.20
