@@ -8,3 +8,4 @@ mongo:8.0-rc-jammy
 bitnami/minio:2024
 postgres:16.3
 snowdreamtech/frpc
+jellyfin/jellyfin
