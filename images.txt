@@ -1,1 +1,2 @@
 python:3.9.21-alpine3.20
+openjdk:24-ea-17-slim-bullseye
