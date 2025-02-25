@@ -1,11 +1,1 @@
-redis:alpine3.20
-helloz/transmission
-v2fly/v2fly-core:v5.16.1
-xuxueli/xxl-job-admin:2.4.0
-rabbitmq
-nacos/nacos-server:v2.3.1
-mongo:8.0-rc-jammy
-bitnami/minio:2024
-postgres:16.3
-snowdreamtech/frpc
-jellyfin/jellyfin
+python:3.9.21-alpine3.20
