@@ -4,3 +4,4 @@ debian:unstable-slim
 python
 cym1102/nginxwebui
 steefdebruijn/docker-roonserver
+deluan/navidrome
