@@ -6,3 +6,4 @@ cym1102/nginxwebui
 steefdebruijn/docker-roonserver
 deluan/navidrome
 cym1102/nginxwebui
+kxhubs/javsp
