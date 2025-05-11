@@ -1,3 +1,2 @@
-bitnami/elasticsearch:9.0.1-debian-12-r0
-bitnami/kibana:8.13.4
-bitnami/elasticsearch:8.13.4
+bitnami/kibana:7.17.8
+bitnami/elasticsearch:7.17.8
