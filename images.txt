@@ -1,9 +1,2 @@
-python:3.9.21-alpine3.20
-openjdk:24-ea-17-slim-bullseye
-debian:unstable-slim
-python
-cym1102/nginxwebui
-steefdebruijn/docker-roonserver
-deluan/navidrome
-cym1102/nginxwebui
-kxhubs/javsp
+bitnami/elasticsearch:9.0.1-debian-12-r0
+bitnami/kibana:9.0.1-debian-12-r0
