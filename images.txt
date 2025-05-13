@@ -1,1 +1,1 @@
-jenkins/jenkins:lts-jdk17-hotspot-windowsservercore-ltsc2019
+jenkins/jenkins:2.509
