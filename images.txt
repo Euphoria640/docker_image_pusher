@@ -1,1 +1,6 @@
-xhongc/music_tag_web:2.4.2
+postgres:13-alpine3.22
+nginx:stable-perl
+minio/minio:RELEASE.2025-05-24T17-08-30Z-cpuv1
+redis:7.4.4-alpine3.21
+sonarqube:lts-enterprise
+mongo:8.0.10
