@@ -1,1 +1,1 @@
-gdy666/lucky:2.17.8
+minio/minio:RELEASE.2025-05-24T17-08-30Z
