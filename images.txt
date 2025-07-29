@@ -1,1 +1,2 @@
 python:3.13
+jiangrui1994/cloudsaver:0.5.8
