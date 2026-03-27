@@ -1,3 +1,4 @@
 python:3.13
 jiangrui1994/cloudsaver:0.5.8
 ntop/ntopng
+mongo:8.0.21-rc0-windowsservercore-ltsc2025
