@@ -4,3 +4,4 @@ ntop/ntopng
 mongo:8.0.21-rc0-noble
 postgres:17.9
 mongo:8.3.0-rc3
+cloudflare/cloudflared:2026.3.0
