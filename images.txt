@@ -1,1 +1,1 @@
-ihmily/streamcap
+jellyfin/jellyfin:2026040605
