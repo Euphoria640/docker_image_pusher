@@ -1,1 +1,2 @@
 jellyfin/jellyfin:2026040605
+gdy666/lucky:3.0.0
