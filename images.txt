@@ -1,1 +1,5 @@
-cloudflare/cloudflared:2026.3.0
+postgres:18.3
+redis:8.2.5
+nginx:1.29.8
+jenkins/jenkins:jdk17
+jenkins/ssh-agent:latest-jdk17
