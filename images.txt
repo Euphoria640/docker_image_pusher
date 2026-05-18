@@ -1,1 +1,1 @@
-rustfs/rustfs:1.0.0-alpha.99
+python:3.13.13
